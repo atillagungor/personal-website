@@ -52,23 +52,7 @@ npm run dev
 
 4. Tarayıcınızda [http://localhost:3000](http://localhost:3000) adresini açın.
 
-## 🚀 Deployment
 
-### Vercel (Önerilen)
-1. [Vercel](https://vercel.com) hesabı oluşturun
-2. GitHub repository'nizi bağlayın
-3. Otomatik deployment başlayacaktır
-
-### Netlify
-1. [Netlify](https://netlify.com) hesabı oluşturun
-2. GitHub repository'nizi bağlayın
-3. Build komutu: `npm run build`
-4. Publish directory: `.next`
-
-### Diğer Platformlar
-- **GitHub Pages**: Static export kullanın
-- **AWS S3**: Static hosting
-- **Firebase Hosting**: Google'ın hosting servisi
 
 ## 📁 Proje Yapısı
 
