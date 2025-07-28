@@ -148,7 +148,7 @@ export default function Home() {
               <div className="text-blue-600 dark:text-blue-400 font-medium mb-4">Mercanlar Otomotiv</div>
               <div className="space-y-3 text-slate-600 dark:text-slate-400">
                 <p className="leading-relaxed">
-                  Kapsamlı full-stack geliştirme deneyimi ile modern web uygulamaları geliştiriyorum. Backend'de .NET Core ve C# kullanarak güçlü API'ler tasarlıyor, Gateway yapıları ile mikroservis mimarisi oluşturuyorum.
+                  Kapsamlı full-stack geliştirme deneyimi ile modern web uygulamaları geliştiriyorum. Backend&apos;de .NET Core ve C# kullanarak güçlü API&apos;ler tasarlıyor, Gateway yapıları ile mikroservis mimarisi oluşturuyorum.
                 </p>
                 <p className="leading-relaxed">
                   Frontend tarafında Next.js ve React teknolojileri ile kullanıcı dostu arayüzler geliştiriyor, veritabanı yönetiminde MsSQL ile performanslı veri işlemleri gerçekleştiriyorum.
